@@ -1,5 +1,10 @@
 [
   {
+    "version": "1.48.2",
+    "supported": true,
+    "platforms": ["ANDROID", "iOS"]
+  },
+  {
     "version": "1.48.1",
     "supported": true,
     "platforms": ["ANDROID", "iOS"]
