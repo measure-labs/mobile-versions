@@ -16,32 +16,32 @@
   },
   {
     "version": "1.49.1",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "1.49.0",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "1.48.2",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "1.48.1",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "1.48.0",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "1.47.0",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
