@@ -6,37 +6,37 @@
   },
   {
     "version": "1.52.1",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "1.52.0",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "1.51.2",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "1.51.1",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "1.51.0",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "1.50.1",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "1.50.0",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
