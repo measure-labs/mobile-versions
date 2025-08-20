@@ -46,17 +46,17 @@
   },
   {
     "version": "1.52.1",
-    "supported": false,
+    "supported": true,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "1.52.0",
-    "supported": false,
+    "supported": true,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "1.51.2",
-    "supported": false,
+    "supported": true,
     "platforms": ["ANDROID", "iOS"]
   },
   {
