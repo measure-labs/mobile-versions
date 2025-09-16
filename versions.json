@@ -1,47 +1,52 @@
 [
   {
+    "version": "2.0.9",
+    "supported": true,
+    "platforms": ["ANDROID", "iOS"]
+  },
+  {
     "version": "2.0.8",
     "supported": true,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "2.0.7",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "2.0.6",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "2.0.5",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "2.0.4",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "2.0.3",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "2.0.2",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "2.0.1",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
     "version": "2.0.0",
-    "supported": true,
+    "supported": false,
     "platforms": ["ANDROID", "iOS"]
   },
   {
