@@ -1,5 +1,10 @@
 [
   {
+    "version": "2.0.11-beta.*",
+    "supported": true,
+    "platforms": ["ANDROID", "iOS"]
+  },
+  {
     "version": "2.0.10",
     "supported": true,
     "platforms": ["ANDROID", "iOS"]
